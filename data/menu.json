@@ -4,12 +4,12 @@
         {
         "icon": "movie",
         "label": "Filmix",
-        "data": "filmix.tv"
+        "data": "https://filmix.tv"
         },
         {
             "icon": "play-circle",
             "label": "Lampa",
-            "data": "lampa.mx"
+            "data": "https://lampa.mx"
         }
     ]
 }
