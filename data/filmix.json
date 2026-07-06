@@ -8,7 +8,7 @@
     "items": [
         {
             "title": "Open Filmix",
-            "action": "link:window:https://filmix.tv"
+            "action": "link:https://filmix.tv"
         }
     ]
 }

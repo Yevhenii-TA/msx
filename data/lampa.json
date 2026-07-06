@@ -8,7 +8,7 @@
     "items": [
         {
             "title": "Open Lampa",
-            "action": "link:window:https://lampa.mx"
+            "action": "link:https://lampa.mx"
         }
     ]
 }
