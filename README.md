@@ -7,7 +7,8 @@ Media Station X launcher configuration for Ivanenko Media.
 - `data/menu.json` - main launcher menu
 - `data/filmix.json` - Filmix launch page
 - `data/lampa.json` - Lampa launch page
-- `data/reload.json` - reload tools
+- `data/tools.json` - launcher tools
+- `data/reload.json` - standalone reload tools
 - `data/info.json` - launcher information page
 
 ## Usage

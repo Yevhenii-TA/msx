@@ -1,0 +1,22 @@
+{
+    "type": "list",
+    "headline": "Tools",
+    "template": {
+        "type": "default",
+        "layout": "0,0,12,1"
+    },
+    "items": [
+        {
+            "title": "Reload App",
+            "action": "reload"
+        },
+        {
+            "title": "Reload Menu",
+            "action": "reload:menu"
+        },
+        {
+            "title": "Launcher Info",
+            "action": "content:https://yevhenii-ta.github.io/msx/data/info.json"
+        }
+    ]
+}
