@@ -1,4 +1,4 @@
-# MSX
+# MSX 1.0.0
 
 Media Station X launcher configuration for Ivanenko Media.
 
