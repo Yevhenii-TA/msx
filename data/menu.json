@@ -2,14 +2,29 @@
     "headline": "Ivanenko Media",
     "menu": [
         {
-        "icon": "movie",
-        "label": "Filmix",
-        "data": "https://filmix.tv"
+            "icon": "movie",
+            "label": "Filmix",
+            "data": "https://yevhenii-ta.github.io/msx/data/filmix.json"
         },
         {
             "icon": "play-circle",
             "label": "Lampa",
-            "data": "https://lampa.mx"
+            "data": "https://yevhenii-ta.github.io/msx/data/lampa.json"
+        },
+        {
+            "icon": "refresh",
+            "label": "Reload",
+            "data": "https://yevhenii-ta.github.io/msx/data/reload.json"
+        },
+        {
+            "icon": "info",
+            "label": "Info",
+            "data": "https://yevhenii-ta.github.io/msx/data/info.json"
+        },
+        {
+            "type": "settings",
+            "icon": "settings",
+            "label": "Settings"
         }
     ]
 }

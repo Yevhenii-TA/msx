@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "parameter": "menu:https://yevhenii-ta.github.io/msx/data/menu.json",
     "launcher": {
-        "icon": "home"
+        "icon": "home",
+        "color": "#1f2937"
     }
 }

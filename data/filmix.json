@@ -1,0 +1,14 @@
+{
+    "type": "list",
+    "headline": "Filmix",
+    "template": {
+        "type": "default",
+        "layout": "0,0,12,1"
+    },
+    "items": [
+        {
+            "title": "Open Filmix",
+            "action": "link:window:https://filmix.tv"
+        }
+    ]
+}

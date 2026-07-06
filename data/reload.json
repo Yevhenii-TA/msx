@@ -1,0 +1,18 @@
+{
+    "type": "list",
+    "headline": "Reload",
+    "template": {
+        "type": "default",
+        "layout": "0,0,12,1"
+    },
+    "items": [
+        {
+            "title": "Reload App",
+            "action": "reload"
+        },
+        {
+            "title": "Reload Menu",
+            "action": "reload:menu"
+        }
+    ]
+}

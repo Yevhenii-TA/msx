@@ -1,0 +1,22 @@
+{
+    "type": "list",
+    "headline": "Ivanenko Media",
+    "template": {
+        "type": "default",
+        "layout": "0,0,12,1"
+    },
+    "items": [
+        {
+            "headline": "Launcher",
+            "text": "Ivanenko Media launcher for Media Station X."
+        },
+        {
+            "headline": "Version",
+            "text": "1.0.0"
+        },
+        {
+            "title": "Open Repository",
+            "action": "link:window:https://github.com/yevhenii-ta/msx"
+        }
+    ]
+}

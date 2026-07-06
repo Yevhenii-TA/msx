@@ -1,0 +1,14 @@
+{
+    "type": "list",
+    "headline": "Lampa",
+    "template": {
+        "type": "default",
+        "layout": "0,0,12,1"
+    },
+    "items": [
+        {
+            "title": "Open Lampa",
+            "action": "link:window:https://lampa.mx"
+        }
+    ]
+}

@@ -1,10 +1,14 @@
 # MSX
 
-A simple repository containing project configuration and menu data.
+Media Station X launcher configuration for Ivanenko Media.
 
 ## Contents
-- `data/menu.json` - menu configuration data
-- `start.json` - startup configuration
+- `start.json` - startup configuration and launcher tile metadata
+- `data/menu.json` - main launcher menu
+- `data/filmix.json` - Filmix launch page
+- `data/lampa.json` - Lampa launch page
+- `data/reload.json` - reload tools
+- `data/info.json` - launcher information page
 
 ## Usage
-Open the project files directly or keep this repository updated with your changes.
+Host these files with GitHub Pages and use the repository URL as the Media Station X start parameter source.
