@@ -1,0 +1,8 @@
+{
+    "name": "Ivanenko Media",
+    "version": "1.0.0",
+    "parameter": "menu:https://github.com/Yevhenii-TA/msx/data/menu.json",
+    "launcher": {
+        "icon": "home"
+    }
+}

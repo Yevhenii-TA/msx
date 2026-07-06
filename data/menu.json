@@ -1,0 +1,15 @@
+{
+    "headline": "Ivanenko Media",
+    "menu": [
+        {
+        "icon": "movie",
+        "label": "Filmix",
+        "data": "filmix.tv"
+        },
+        {
+            "icon": "play-circle",
+            "label": "Lampa",
+            "data": "lampa.mx"
+        }
+    ]
+}
